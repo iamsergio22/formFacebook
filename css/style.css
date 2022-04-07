@@ -1,0 +1,62 @@
+body{
+    width: 400px;
+    max-width: 375px;
+}
+.sexo{
+    width: 115px;
+    padding: 2px 2px;
+    border: 1px solid black;
+    border-radius: 3px;
+    display: inline-block;
+}
+input{
+    height: 25px;
+}
+.cabeza{
+    display: flex;
+    width: 390px;
+}
+.cabeza h1{
+    display: block;
+}
+.cabeza {
+    display: inline-block;
+}
+img{
+    /* display: inline-block; */
+    float: right;
+    margin-top: 25px;
+    width: 30px;
+    margin-right: 10px;
+}
+.extender{
+    width: 365px;
+}
+.ape{
+    width: 185px;
+}
+p{
+    font-size: 12px;
+}
+h1{
+    margin-bottom: 0;
+}
+.parra{
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding: 2px 0;
+    font-size: 15px;
+    width: 375px;
+    border-bottom: 1px solid black;
+}
+button{
+    background-color: green;
+    width: 365px;
+    height: 39px;
+    border-radius: 10px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
